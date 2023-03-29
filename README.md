@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DLuchi007
-- 👀 I’m interested in data analytics 
+- 👀 I’m interested in data analytics and data science 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me danieldeo007@gmail.com
